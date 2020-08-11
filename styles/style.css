@@ -1,0 +1,175 @@
+body {
+  margin: 0px;
+}
+
+body .nav-color {
+  background-color: #18191b;
+  position: fixed;
+  z-index: 100;
+}
+
+body .nav-color nav {
+  font-weight: 500;
+}
+
+body .nav-color nav .nav-item {
+  margin: 0px 10px;
+}
+
+body .nav-color nav .nav-btn {
+  background-color: #333;
+  border-radius: 4px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+body .sec-nav {
+  padding-top: 56px;
+}
+
+body .be-you {
+  margin-top: 68px;
+}
+
+body .be-you .be-diff .div {
+  width: 80%;
+  margin: 10px auto;
+}
+
+body .be-you .be-diff .div p {
+  line-height: 28px;
+  margin-bottom: 20px;
+}
+
+body .be-you .be-diff .div .read-more {
+  background-image: none;
+  background-color: #18191b;
+  color: white;
+  padding: .375rem 1.75rem;
+  font-weight: 500;
+}
+
+body .services {
+  margin-top: 68px;
+  margin-bottom: 36px;
+}
+
+body .services .heading {
+  font-size: 3em;
+  color: #333;
+  letter-spacing: 2px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+}
+
+body .services .service-card a:hover {
+  text-decoration: none;
+}
+
+body .services .service-card a .img-name {
+  background-color: black;
+  color: white;
+  padding: 6px 0px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+body .services .service-card a .img-name h3 {
+  font-weight: 400;
+  text-align: center;
+  font-size: 1.55rem;
+  margin-bottom: 0px;
+}
+
+body .services .service-card p {
+  text-align: center;
+  font-weight: 500;
+  font-size: 16px;
+  margin: 26px auto;
+}
+
+body .team {
+  margin-top: 68px;
+  margin-bottom: 36px;
+}
+
+body .team .heading {
+  font-size: 3em;
+  color: #333;
+  letter-spacing: 2px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+}
+
+body .team .team-card {
+  text-align: center;
+}
+
+body .team .team-card h3 {
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  margin-top: 12px;
+}
+
+body .team .team-card h5 {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 3px;
+}
+
+body .projects {
+  margin-top: 68px;
+  margin-bottom: 36px;
+}
+
+body .projects .heading {
+  font-size: 3em;
+  color: #333;
+  letter-spacing: 2px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+}
+
+body .projects .projects-card img {
+  border: 6px solid #ddf1f1;
+}
+
+body .testimonial {
+  margin-top: 68px;
+  margin-bottom: 36px;
+  background-color: black;
+}
+
+body .testimonial .heading {
+  font-size: 3em;
+  color: white;
+  letter-spacing: 2px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+}
+
+body .contact-us {
+  margin-top: 68px;
+  margin-bottom: 36px;
+}
+
+body .contact-us .heading {
+  font-size: 3em;
+  color: #333;
+  letter-spacing: 2px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+}
+/*# sourceMappingURL=style.css.map */
