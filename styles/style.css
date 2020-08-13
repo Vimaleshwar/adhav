@@ -159,17 +159,128 @@ body .testimonial .heading {
 }
 
 body .contact-us {
-  margin-top: 68px;
-  margin-bottom: 36px;
+  background: #141414;
 }
 
 body .contact-us .heading {
   font-size: 3em;
-  color: #333;
+  color: white;
   letter-spacing: 2px;
   font-weight: 400;
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: 0.5em;
+  padding: 40px;
+  padding-bottom: 30px;
+}
+
+body .contact-us .contact-container {
+  background-color: #141414;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+body .contact-us .contact-container .contact-info {
+  width: 42%;
+}
+
+body .contact-us .contact-container .contact-info i {
+  color: #ffffff;
+  font-size: 12px;
+}
+
+body .contact-us .contact-container .contact-info h4 {
+  color: #ffa41f;
+  font-size: 22px;
+}
+
+body .contact-us .contact-container .contact-info .contact {
+  margin-top: 20px;
+}
+
+body .contact-us .contact-container .contact-info h3 {
+  font-size: 14px;
+  color: #ffffff;
+  letter-spacing: 1px;
+  margin-top: 6px;
+}
+
+body .contact-us .contact-container .contact-info p {
+  letter-spacing: 1.2px;
+  color: #928c8c;
+}
+
+body .contact-us .contact-container .form {
+  background: #141414;
+  width: 58%;
+  padding: 0px 16px 100px 16px;
+}
+
+body .contact-us .contact-container .form h4 {
+  color: #ffa41f;
+  font-size: 22px;
+}
+
+body .contact-us .contact-container .form .input {
+  margin-top: 16px;
+}
+
+body .contact-us .contact-container .form .input input {
+  width: 46%;
+  margin-right: 20px;
+  padding: 15px 0 15px 8px;
+  font-size: 16px;
+  outline: none;
+}
+
+body .contact-us .contact-container .form textarea {
+  width: 96%;
+  height: 50%;
+  margin-top: 16px;
+  padding: 4px 0 0 8px;
+  font-size: 16px;
+  outline: none;
+}
+
+body .contact-us .contact-container .form .button input {
+  padding: 16px 0;
+  width: 46%;
+  margin: 16px 0 16px 7px;
+  font-size: 12px;
+  background-color: black;
+  color: #ffffff;
+  letter-spacing: 1.3px;
+  border: none;
+  outline: none;
+}
+
+body .contact-us .contact-container .form .button input:hover {
+  background-color: #ffa41f;
+  color: black;
+  -webkit-transition: 0.8s;
+  transition: 0.8s;
+}
+
+body .contact-us .map-container iframe {
+  width: 100%;
+  height: 100%;
+}
+
+body .contact-us .design {
+  background-color: black;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+body .contact-us .design h4 {
+  color: white;
+  text-align: right;
+  letter-spacing: 1.5px;
+  font-weight: 400;
+  font-size: 8px;
+}
+
+body .contact-us .design h4 span {
+  color: #ffa41f;
 }
 /*# sourceMappingURL=style.css.map */
